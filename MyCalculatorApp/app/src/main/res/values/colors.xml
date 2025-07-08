@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dispaly_background">#E2E9EE</color>
+    <color name="primary_text">#323233</color>
+    <color name="seconadary_text">#48C185</color>
+    <color name="allClear_text">#C62828</color>
+    <color name="EqualButton_bg">#36B8AB</color>
+    <color name="EqualButton_text">#FFFEFE</color>
+    <color name="Button_bg">#F5F6F8</color>
+    <color name="Divider">#E2E9EE</color>
+    <color name="status_bar">#C3C7CB</color>
+</resources>
